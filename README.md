@@ -11,7 +11,7 @@
     4. uppercase-all and lowercase-all strings using built in function✅
     5. capitalize(uppercase first letter of each word) strings using built in function✅
     6. concatenate integer and string without getting an error✅
-    7. concatenate float and string without getting an error
+    7. concatenate float and string without getting an error✅
     8. contatenate boolean and string without getting an error
     9. convert array to a comma separated string (array join)
     10. split string using a delimiter
