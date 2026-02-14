@@ -5,12 +5,12 @@
     (10 minutes per day)
 
     ## Beginner Tasks
-    1. setup environment/compiler and print out hello world✔️
-    2. declare 2 string variables, 1 is hello, 1 is world, concatenate to say hello world✔️
-    3. Trim whitespace from strings using built in function✔️
-    4. uppercase-all and lowercase-all strings using built in function✔️
-    5. capitalize(uppercase first letter of each word) strings using built in function✔️
-    6. concatenate integer and string without getting an error
+    1. setup environment/compiler and print out hello world✅
+    2. declare 2 string variables, 1 is hello, 1 is world, concatenate to say hello world✅
+    3. Trim whitespace from strings using built in function✅
+    4. uppercase-all and lowercase-all strings using built in function✅
+    5. capitalize(uppercase first letter of each word) strings using built in function✅
+    6. concatenate integer and string without getting an error✅
     7. concatenate float and string without getting an error
     8. contatenate boolean and string without getting an error
     9. convert array to a comma separated string (array join)
