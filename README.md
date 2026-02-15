@@ -14,7 +14,7 @@
     7. concatenate float and string without getting an error✅
     8. contatenate boolean and string without getting an error✅
     9. convert array to a comma separated string (array join)✅
-    10. split string using a delimiter
+    10. split string using a delimiter✅
     11. split string to an array of (single) characters
     12. loop through a numeric array preferrably not using manual index increment
     13. loop through a numeric array printing both the index and the value
