@@ -17,7 +17,7 @@
     10. split string using a delimiter✅
     11. split string to an array of (single) characters✅
     12. loop through a numeric array preferrably not using manual index increment✅
-    13. loop through a numeric array printing both the index and the value
+    13. loop through a numeric array printing both the index and the value✅
     14. split a name string into a char-array, then capitalize the first letter by overwriting char-array item zero, then reconstruct into a string
     15. print a defined array, then remove the last item using array pop or equivalent
     16. print array, and then push a new item using array push or equivalent
